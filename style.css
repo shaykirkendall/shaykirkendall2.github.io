@@ -1,0 +1,22 @@
+header{
+  background: red;
+  padding: 20px;
+  border-bottom: 5px solid black;
+  color: white;
+}
+
+.nav-list{
+  background: CadetBlue;
+  color: black;
+  padding: 10px;
+  margin: 0px 0px 10px 0px;
+  list-style: none;
+}
+
+img{
+  width: 150px
+}
+
+#large-image{
+  width: 100%
+}
